@@ -1,0 +1,53 @@
+[33mcommit 31a913136d9bad78500d491a591b8c1b721b589b[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Sun Mar 2 03:31:49 2014 +0900
+
+    finish user signup2
+
+[33mcommit 88655b89f7eaff52e29e7af5278ab3d4f3d507e2[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Sun Mar 2 00:49:08 2014 +0900
+
+    Add SSL in procuction
+
+[33mcommit 6799633ee1c75a18c2a24df569baf34f9870e8ef[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Sun Mar 2 00:43:48 2014 +0900
+
+    Finish user signup
+
+[33mcommit 278a55d47ece9118136ded6b9b3af550252f48bf[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Tue Feb 25 02:49:13 2014 +0900
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit ffdd9820237585ef830dd29151d6a96d39ed5c99[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Mon Feb 24 19:40:39 2014 +0900
+
+    Finish layout and routes
+
+[33mcommit a6a19941d2fa0b6b02615500afada35d2458bcce[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Sun Feb 16 22:33:41 2014 +0900
+
+    Add a full_title helper
+
+[33mcommit 529b3ef6b12876557fc8408895bf61e12fbb41c4[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Tue Feb 11 16:52:13 2014 +0900
+
+    Finish static pages
+
+[33mcommit 6c9b5837cdec564bec6ed9ed31d7c31971b07f1b[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Tue Feb 11 14:01:34 2014 +0900
+
+    Add a StaticPagesController
+
+[33mcommit 33a51fa2e41e2c9493d64313fa6398671b4b29e2[m
+Author: msaito <peterpansymdromer@gmail.com>
+Date:   Tue Feb 11 12:39:45 2014 +0900
+
+    Improve the README
